@@ -1,2 +1,1 @@
-# Interactive-Machine-Learning-Dashboards-using-Principal-Component-Analysis-in-Python
-Interactive Machine Learning Dashboards using Principal Component Analysis in Python
+##  In this case study, We will be analysing a customer transaction dataset in order to investigate and interpret customer behaviour of a certain supplier. We will be doing exploratory data analysis on our data, before employing a variety of dimensionality reduction techniques, ranging from introductory to more advanced. We will visualize our new representation, before clustering our customers based on their behaviour. Finally, we will visualize our clusters in an interactive way to analyse them and their differences more thoroughly.
